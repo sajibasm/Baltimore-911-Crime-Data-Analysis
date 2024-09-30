@@ -1,6 +1,4 @@
 # Baltimore-911-Crime-Data-Analysis
-# Baltimore 911 Crime Data Analysis
-
 This repository contains code for analyzing Baltimore 911 crime data. The code performs the following tasks:
 
 * Data loading and cleaning
