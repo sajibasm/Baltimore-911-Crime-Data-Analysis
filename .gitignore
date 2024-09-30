@@ -1,0 +1,68 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.pyo
+
+# Django
+*.log
+*.pot
+*.pyc
+*.mo
+*.py~
+*.swp
+*.swo
+*.sqlite3
+*.env
+
+# PyCharm specific
+.idea/
+*.iml
+*.iws
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/vcs.xml
+.idea/**/shelf
+.idea/**/jsLibraryMappings.xml
+.idea/**/gradle.xml
+.idea/**/modules.xml
+.idea/**/python.xml
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/dataSources.xml*
+.idea/**/dataSources.local.xml*
+.idea/**/webServers.xml
+.idea/**/project_code_style.xml
+.idea/**/encodings.xml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# pipenv
+Pipfile.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
